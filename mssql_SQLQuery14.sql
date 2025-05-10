@@ -1,0 +1,2 @@
+SELECT * 
+  FROM [ICSBK_2].[dbo].[POPUPDT]
